@@ -108,7 +108,7 @@
 			path = ProblemSolving;
 			sourceTree = "<group>";
 		};
-		D46C390A25B8020F0013D7C0 /* 프로그래머스 */ = {
+		D453138125B975B8009E4E04 /* 레벨1 */ = {
 			isa = PBXGroup;
 			children = (
 				D4482C6725A3058C009499A6 /* Programmers_괄호변환.swift */,
@@ -132,6 +132,43 @@
 				D46C390125B6C0BE0013D7C0 /* Programmers_비밀지도.swift */,
 				D46C390425B6C6D50013D7C0 /* Programmers_서울에서김서방찾기.swift */,
 				D46C390725B6C7EE0013D7C0 /* Programmers_소수찾기.swift */,
+			);
+			name = "레벨1";
+			path = "레벨1";
+			sourceTree = "<group>";
+		};
+		D453138525B975E9009E4E04 /* 레벨2 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "레벨2";
+			path = "레벨2";
+			sourceTree = "<group>";
+		};
+		D453138625B975EE009E4E04 /* 레벨3 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "레벨3";
+			path = "레벨3";
+			sourceTree = "<group>";
+		};
+		D453138725B975F2009E4E04 /* 레벨4 */ = {
+			isa = PBXGroup;
+			children = (
+				D4AB680B25B52FE2002D8477 /* Programmers_가사검색.swift */,
+			);
+			name = "레벨4";
+			path = "레벨4";
+			sourceTree = "<group>";
+		};
+		D46C390A25B8020F0013D7C0 /* 프로그래머스 */ = {
+			isa = PBXGroup;
+			children = (
+				D453138125B975B8009E4E04 /* 레벨1 */,
+				D453138525B975E9009E4E04 /* 레벨2 */,
+				D453138625B975EE009E4E04 /* 레벨3 */,
+				D453138725B975F2009E4E04 /* 레벨4 */,
 			);
 			name = "프로그래머스";
 			path = "프로그래머스";

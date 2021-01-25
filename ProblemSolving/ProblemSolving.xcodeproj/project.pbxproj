@@ -54,6 +54,7 @@
 		D4BC1EE925B2BB280057B6AE /* Programmers_K번째수.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4BC1EE825B2BB280057B6AE /* Programmers_K번째수.swift */; };
 		D4CF330E25BE86B50063535F /* Programmers_스킬트리.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4CF330D25BE86B50063535F /* Programmers_스킬트리.swift */; };
 		D4CF331125BE8A4C0063535F /* Programmers_기능개발.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4CF331025BE8A4C0063535F /* Programmers_기능개발.swift */; };
+		D4CF331425BE93270063535F /* Programmers_다리를지나는트럭.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4CF331325BE93270063535F /* Programmers_다리를지나는트럭.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -117,6 +118,7 @@
 		D4BC1EE825B2BB280057B6AE /* Programmers_K번째수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Programmers_K번째수.swift"; sourceTree = "<group>"; };
 		D4CF330D25BE86B50063535F /* Programmers_스킬트리.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Programmers_스킬트리.swift"; sourceTree = "<group>"; };
 		D4CF331025BE8A4C0063535F /* Programmers_기능개발.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Programmers_기능개발.swift"; sourceTree = "<group>"; };
+		D4CF331325BE93270063535F /* Programmers_다리를지나는트럭.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Programmers_다리를지나는트럭.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -211,6 +213,7 @@
 			children = (
 				D4CF330D25BE86B50063535F /* Programmers_스킬트리.swift */,
 				D4CF331025BE8A4C0063535F /* Programmers_기능개발.swift */,
+				D4CF331325BE93270063535F /* Programmers_다리를지나는트럭.swift */,
 			);
 			name = "레벨2";
 			path = "레벨2";
@@ -357,6 +360,7 @@
 				D4597E8B25B4347500255DB2 /* Programmers_두정수사이의합.swift in Sources */,
 				D46C390825B6C7EE0013D7C0 /* Programmers_소수찾기.swift in Sources */,
 				D45313AE25B9AD29009E4E04 /* Programmers_짝수와홀수.swift in Sources */,
+				D4CF331425BE93270063535F /* Programmers_다리를지나는트럭.swift in Sources */,
 				D4AB680C25B52FE2002D8477 /* Programmers_가사검색.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

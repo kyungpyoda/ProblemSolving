@@ -55,6 +55,7 @@
 		D4CF330E25BE86B50063535F /* Programmers_스킬트리.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4CF330D25BE86B50063535F /* Programmers_스킬트리.swift */; };
 		D4CF331125BE8A4C0063535F /* Programmers_기능개발.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4CF331025BE8A4C0063535F /* Programmers_기능개발.swift */; };
 		D4CF331425BE93270063535F /* Programmers_다리를지나는트럭.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4CF331325BE93270063535F /* Programmers_다리를지나는트럭.swift */; };
+		D4CF331725BEA0570063535F /* Programmers_프린터.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4CF331625BEA0570063535F /* Programmers_프린터.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -119,6 +120,7 @@
 		D4CF330D25BE86B50063535F /* Programmers_스킬트리.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Programmers_스킬트리.swift"; sourceTree = "<group>"; };
 		D4CF331025BE8A4C0063535F /* Programmers_기능개발.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Programmers_기능개발.swift"; sourceTree = "<group>"; };
 		D4CF331325BE93270063535F /* Programmers_다리를지나는트럭.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Programmers_다리를지나는트럭.swift"; sourceTree = "<group>"; };
+		D4CF331625BEA0570063535F /* Programmers_프린터.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Programmers_프린터.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -214,6 +216,7 @@
 				D4CF330D25BE86B50063535F /* Programmers_스킬트리.swift */,
 				D4CF331025BE8A4C0063535F /* Programmers_기능개발.swift */,
 				D4CF331325BE93270063535F /* Programmers_다리를지나는트럭.swift */,
+				D4CF331625BEA0570063535F /* Programmers_프린터.swift */,
 			);
 			name = "레벨2";
 			path = "레벨2";
@@ -351,6 +354,7 @@
 				D4597E9125B439C900255DB2 /* Programmers_문자열내p와y의개수.swift in Sources */,
 				D4597E7F25B424EB00255DB2 /* Programmers_체육복.swift in Sources */,
 				D453139625B99F1B009E4E04 /* Programmers_예산.swift in Sources */,
+				D4CF331725BEA0570063535F /* Programmers_프린터.swift in Sources */,
 				D453139025B99543009E4E04 /* Programmers_실패율.swift in Sources */,
 				D4597E8225B427EA00255DB2 /* Programmers_2016년.swift in Sources */,
 				D422CE2225B1E4F70049625A /* Programmers_크레인인형뽑기게임.swift in Sources */,

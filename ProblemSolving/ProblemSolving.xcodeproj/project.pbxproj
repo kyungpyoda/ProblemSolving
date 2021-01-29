@@ -51,7 +51,7 @@
 		D46B134825B84A4300825E09 /* BOJ_1916.swift in Sources */ = {isa = PBXBuildFile; fileRef = D46B134725B84A4300825E09 /* BOJ_1916.swift */; };
 		D46C390225B6C0BE0013D7C0 /* Programmers_비밀지도.swift in Sources */ = {isa = PBXBuildFile; fileRef = D46C390125B6C0BE0013D7C0 /* Programmers_비밀지도.swift */; };
 		D46C390525B6C6D50013D7C0 /* Programmers_서울에서김서방찾기.swift in Sources */ = {isa = PBXBuildFile; fileRef = D46C390425B6C6D50013D7C0 /* Programmers_서울에서김서방찾기.swift */; };
-		D46C390825B6C7EE0013D7C0 /* Programmers_소수찾기.swift in Sources */ = {isa = PBXBuildFile; fileRef = D46C390725B6C7EE0013D7C0 /* Programmers_소수찾기.swift */; };
+		D46C390825B6C7EE0013D7C0 /* Programmers_소수찾기1.swift in Sources */ = {isa = PBXBuildFile; fileRef = D46C390725B6C7EE0013D7C0 /* Programmers_소수찾기1.swift */; };
 		D4AB680C25B52FE2002D8477 /* Programmers_가사검색.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4AB680B25B52FE2002D8477 /* Programmers_가사검색.swift */; };
 		D4AB680F25B5DE3A002D8477 /* Programmers_내적.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4AB680E25B5DE3A002D8477 /* Programmers_내적.swift */; };
 		D4AB681225B5DFE0002D8477 /* Programmers_문자열내림차순으로배치하기.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4AB681125B5DFE0002D8477 /* Programmers_문자열내림차순으로배치하기.swift */; };
@@ -123,7 +123,7 @@
 		D46B134725B84A4300825E09 /* BOJ_1916.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ_1916.swift; sourceTree = "<group>"; };
 		D46C390125B6C0BE0013D7C0 /* Programmers_비밀지도.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Programmers_비밀지도.swift"; sourceTree = "<group>"; };
 		D46C390425B6C6D50013D7C0 /* Programmers_서울에서김서방찾기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Programmers_서울에서김서방찾기.swift"; sourceTree = "<group>"; };
-		D46C390725B6C7EE0013D7C0 /* Programmers_소수찾기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Programmers_소수찾기.swift"; sourceTree = "<group>"; };
+		D46C390725B6C7EE0013D7C0 /* Programmers_소수찾기1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Programmers_소수찾기1.swift"; sourceTree = "<group>"; };
 		D4AB680B25B52FE2002D8477 /* Programmers_가사검색.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Programmers_가사검색.swift"; sourceTree = "<group>"; };
 		D4AB680E25B5DE3A002D8477 /* Programmers_내적.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Programmers_내적.swift"; sourceTree = "<group>"; };
 		D4AB681125B5DFE0002D8477 /* Programmers_문자열내림차순으로배치하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Programmers_문자열내림차순으로배치하기.swift"; sourceTree = "<group>"; };
@@ -197,7 +197,7 @@
 				D42D034D25B6713900E07C6C /* Programmers_다트게임.swift */,
 				D46C390125B6C0BE0013D7C0 /* Programmers_비밀지도.swift */,
 				D46C390425B6C6D50013D7C0 /* Programmers_서울에서김서방찾기.swift */,
-				D46C390725B6C7EE0013D7C0 /* Programmers_소수찾기.swift */,
+				D46C390725B6C7EE0013D7C0 /* Programmers_소수찾기1.swift */,
 				D453138825B9766E009E4E04 /* Programmers_수박수박수박수박수박수?.swift */,
 				D453138C25B97741009E4E04 /* Programmers_시저암호.swift */,
 				D453138F25B99543009E4E04 /* Programmers_실패율.swift */,
@@ -390,7 +390,7 @@
 				D453138D25B97741009E4E04 /* Programmers_시저암호.swift in Sources */,
 				D4597E8E25B437E800255DB2 /* Programmers_문자열내마음대로정렬하기.swift in Sources */,
 				D4597E8B25B4347500255DB2 /* Programmers_두정수사이의합.swift in Sources */,
-				D46C390825B6C7EE0013D7C0 /* Programmers_소수찾기.swift in Sources */,
+				D46C390825B6C7EE0013D7C0 /* Programmers_소수찾기1.swift in Sources */,
 				D45313AE25B9AD29009E4E04 /* Programmers_짝수와홀수.swift in Sources */,
 				D4CF331425BE93270063535F /* Programmers_다리를지나는트럭.swift in Sources */,
 				D4AB680C25B52FE2002D8477 /* Programmers_가사검색.swift in Sources */,

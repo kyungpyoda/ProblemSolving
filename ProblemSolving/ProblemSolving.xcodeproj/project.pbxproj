@@ -75,6 +75,7 @@
 		D4CF331725BEA0570063535F /* Programmers_프린터.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4CF331625BEA0570063535F /* Programmers_프린터.swift */; };
 		D4D6547425CBBA8B0073F124 /* Programmers_HIndex.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4D6547325CBBA8B0073F124 /* Programmers_HIndex.swift */; };
 		D4E4073D25CAF9FB001BDF6D /* Programmers_소수만들기.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4E4073C25CAF9FB001BDF6D /* Programmers_소수만들기.swift */; };
+		D4E9BEE325CD7DD500BAD235 /* Programmers_가장큰정사각형찾기.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4E9BEE225CD7DD500BAD235 /* Programmers_가장큰정사각형찾기.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -159,6 +160,7 @@
 		D4CF331625BEA0570063535F /* Programmers_프린터.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Programmers_프린터.swift"; sourceTree = "<group>"; };
 		D4D6547325CBBA8B0073F124 /* Programmers_HIndex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Programmers_HIndex.swift; sourceTree = "<group>"; };
 		D4E4073C25CAF9FB001BDF6D /* Programmers_소수만들기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Programmers_소수만들기.swift"; sourceTree = "<group>"; };
+		D4E9BEE225CD7DD500BAD235 /* Programmers_가장큰정사각형찾기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Programmers_가장큰정사각형찾기.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -271,6 +273,7 @@
 				D495C2F525CD27EA00E7A674 /* Programmers_카펫.swift */,
 				D495C2F825CD29B300E7A674 /* Programmers_순위검색.swift */,
 				D495C2FB25CD44A200E7A674 /* Programmers_쿼드압축후개수세기.swift */,
+				D4E9BEE225CD7DD500BAD235 /* Programmers_가장큰정사각형찾기.swift */,
 			);
 			name = "레벨2";
 			path = "레벨2";
@@ -376,6 +379,7 @@
 			files = (
 				D45313B725B9B4EE009E4E04 /* Programmers_키패드누르기.swift in Sources */,
 				D45313A225B9A8BA009E4E04 /* Programmers_정수내림차순으로배치하기.swift in Sources */,
+				D4E9BEE325CD7DD500BAD235 /* Programmers_가장큰정사각형찾기.swift in Sources */,
 				D406DADD25C2F30B0064D3DA /* Programmers_멀쩡한사각형.swift in Sources */,
 				D42D034E25B6713900E07C6C /* Programmers_다트게임.swift in Sources */,
 				D406DAE325C308660064D3DA /* Programmers_문자열압축.swift in Sources */,

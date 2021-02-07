@@ -81,6 +81,7 @@
 		D4E9BEE325CD7DD500BAD235 /* Programmers_가장큰정사각형찾기.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4E9BEE225CD7DD500BAD235 /* Programmers_가장큰정사각형찾기.swift */; };
 		D4FF414625CFD01200E32D8F /* Programmers_땅따먹기.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4FF414525CFD01200E32D8F /* Programmers_땅따먹기.swift */; };
 		D4FF414925D02E0900E32D8F /* Programmers_이진변환반복하기.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4FF414825D02E0900E32D8F /* Programmers_이진변환반복하기.swift */; };
+		D4FF414C25D034A600E32D8F /* Programmers_최댓값과최솟값.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4FF414B25D034A600E32D8F /* Programmers_최댓값과최솟값.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -171,6 +172,7 @@
 		D4E9BEE225CD7DD500BAD235 /* Programmers_가장큰정사각형찾기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Programmers_가장큰정사각형찾기.swift"; sourceTree = "<group>"; };
 		D4FF414525CFD01200E32D8F /* Programmers_땅따먹기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Programmers_땅따먹기.swift"; sourceTree = "<group>"; };
 		D4FF414825D02E0900E32D8F /* Programmers_이진변환반복하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Programmers_이진변환반복하기.swift"; sourceTree = "<group>"; };
+		D4FF414B25D034A600E32D8F /* Programmers_최댓값과최솟값.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Programmers_최댓값과최솟값.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -289,6 +291,7 @@
 				D494703625CEFAB10030961F /* Programmers_다음큰숫자.swift */,
 				D4FF414525CFD01200E32D8F /* Programmers_땅따먹기.swift */,
 				D4FF414825D02E0900E32D8F /* Programmers_이진변환반복하기.swift */,
+				D4FF414B25D034A600E32D8F /* Programmers_최댓값과최솟값.swift */,
 			);
 			name = "레벨2";
 			path = "레벨2";
@@ -448,6 +451,7 @@
 				D4D6547425CBBA8B0073F124 /* Programmers_HIndex.swift in Sources */,
 				D494703725CEFAB10030961F /* Programmers_다음큰숫자.swift in Sources */,
 				D44A0C3C25C1826500E97334 /* Programmers_기둥과보설치.swift in Sources */,
+				D4FF414C25D034A600E32D8F /* Programmers_최댓값과최솟값.swift in Sources */,
 				D4597E7F25B424EB00255DB2 /* Programmers_체육복.swift in Sources */,
 				D4E4073D25CAF9FB001BDF6D /* Programmers_소수만들기.swift in Sources */,
 				D406DAE025C2F9AA0064D3DA /* Programmers_삼각달팽이.swift in Sources */,
